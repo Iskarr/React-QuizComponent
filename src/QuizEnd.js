@@ -5,7 +5,7 @@ class QuizEnd extends Component {
     return (
       <div>
         <p>Thanks for Playing!</p>
-        <a href="#">Reset Quiz</a>
+        <a href="">Reset Quiz</a>
       </div>
     );
   }
